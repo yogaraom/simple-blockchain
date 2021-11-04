@@ -1,0 +1,26 @@
+{
+  "name": "simple-blockchain",
+  "version": "1.0.0",
+  "description": "simple-blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc -w",
+    "start": "tsc && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogaraom/simple-blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogaraom/simple-blockchain/issues"
+  },
+  "homepage": "https://github.com/yogaraom/simple-blockchain#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "typescript": "^4.4.4"
+  }
+}
